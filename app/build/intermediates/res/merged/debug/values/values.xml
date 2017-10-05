@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HW03</string>
+    <string name="image1_desc_string">Dog</string>
+    <string name="image2_desc_string">Cat</string>
+    <string name="load_icon_string">Dog or Cat?</string>
+    <string name="other_button_string">Other Button</string>
+</resources>

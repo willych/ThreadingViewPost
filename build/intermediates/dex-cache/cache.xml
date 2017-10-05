@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Users\Bob\Desktop\ThreadingViewPost\ThreadingViewPost\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4e7de460e7f0fb0aa7b7b3fbe922865d684f22b8">
+        <dex dex="D:\Users\Bob\Desktop\ThreadingViewPost\ThreadingViewPost\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_35fe0f6fbf8c4a8b0eab2489b220bef0bdd765c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\Bob\Desktop\ThreadingViewPost\ThreadingViewPost\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b28de34ca5c8be9b83c3f65e379634af4be50bd8">
+        <dex dex="D:\Users\Bob\Desktop\ThreadingViewPost\ThreadingViewPost\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_5d1a8adba12c38cc5e1787a187a1ee0beb609aa9\classes.dex" />
+    </item>
+
+</items>

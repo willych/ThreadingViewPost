@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="24"
+    density="560dpi"
+    format="8"
+    plugin-version="2.2.1"
+    timestamp="620163179310964"
+    token="-6861164582672190964"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="200" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="51" />
+    <task
+        name="verifier"
+        duration="13" />
+
+    <artifact
+        location="D:\Users\Bob\Desktop\ThreadingViewPost\ThreadingViewPost\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+        type="RESOURCES" />
+    <artifact
+        location="D:\Users\Bob\Desktop\ThreadingViewPost\ThreadingViewPost\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_9\classes.dex"
+        type="DEX" />
+
+    <build
+        timestamp="619105677977539"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="D:\Users\Bob\Desktop\ThreadingViewPost\ThreadingViewPost\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="620163179310964"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="D:\Users\Bob\Desktop\ThreadingViewPost\ThreadingViewPost\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="D:\Users\Bob\Desktop\ThreadingViewPost\ThreadingViewPost\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_9\classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>

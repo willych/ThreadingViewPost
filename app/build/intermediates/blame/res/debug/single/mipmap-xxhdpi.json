@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Users\\Bob\\Desktop\\ThreadingViewPost\\ThreadingViewPost\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\newimage.png",
+        "source": "D:\\Users\\Bob\\Desktop\\ThreadingViewPost\\ThreadingViewPost\\app\\src\\main\\res\\mipmap-xxhdpi\\newimage.png"
+    },
+    {
+        "merged": "D:\\Users\\Bob\\Desktop\\ThreadingViewPost\\ThreadingViewPost\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\placeholder.png",
+        "source": "D:\\Users\\Bob\\Desktop\\ThreadingViewPost\\ThreadingViewPost\\app\\src\\main\\res\\mipmap-xxhdpi\\placeholder.png"
+    },
+    {
+        "merged": "D:\\Users\\Bob\\Desktop\\ThreadingViewPost\\ThreadingViewPost\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\dog.png",
+        "source": "D:\\Users\\Bob\\Desktop\\ThreadingViewPost\\ThreadingViewPost\\app\\src\\main\\res\\mipmap-xxhdpi\\dog.png"
+    },
+    {
+        "merged": "D:\\Users\\Bob\\Desktop\\ThreadingViewPost\\ThreadingViewPost\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\cat.png",
+        "source": "D:\\Users\\Bob\\Desktop\\ThreadingViewPost\\ThreadingViewPost\\app\\src\\main\\res\\mipmap-xxhdpi\\cat.png"
+    }
+]

@@ -1,0 +1,88 @@
+[
+    {
+        "outputFile": "D:\\Users\\Bob\\Desktop\\ThreadingViewPost\\ThreadingViewPost\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 41,
+                    "endOffset": 92
+                },
+                "from": {
+                    "file": "D:\\Users\\Bob\\Desktop\\ThreadingViewPost\\ThreadingViewPost\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 97,
+                    "endColumn": 50,
+                    "endOffset": 143
+                },
+                "from": {
+                    "file": "D:\\Users\\Bob\\Desktop\\ThreadingViewPost\\ThreadingViewPost\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 215,
+                        "endColumn": 50,
+                        "endOffset": 261
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 148,
+                    "endColumn": 50,
+                    "endOffset": 194
+                },
+                "from": {
+                    "file": "D:\\Users\\Bob\\Desktop\\ThreadingViewPost\\ThreadingViewPost\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 266,
+                        "endColumn": 50,
+                        "endOffset": 312
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 199,
+                    "endColumn": 56,
+                    "endOffset": 251
+                },
+                "from": {
+                    "file": "D:\\Users\\Bob\\Desktop\\ThreadingViewPost\\ThreadingViewPost\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 97,
+                        "endColumn": 56,
+                        "endOffset": 149
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 256,
+                    "endColumn": 60,
+                    "endOffset": 312
+                },
+                "from": {
+                    "file": "D:\\Users\\Bob\\Desktop\\ThreadingViewPost\\ThreadingViewPost\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,7 @@
+#Fri Oct 14 20:00:13 EDT 2016
+base.0=D\:\\Users\\Bob\\Desktop\\ThreadingViewPost\\ThreadingViewPost\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_5d1a8adba12c38cc5e1787a187a1ee0beb609aa9
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\Users\\Bob\\Desktop\\ThreadingViewPost\\ThreadingViewPost\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_35fe0f6fbf8c4a8b0eab2489b220bef0bdd765c6\\classes.dex
+base.1=D\:\\Users\\Bob\\Desktop\\ThreadingViewPost\\ThreadingViewPost\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_35fe0f6fbf8c4a8b0eab2489b220bef0bdd765c6
+file.0=D\:\\Users\\Bob\\Desktop\\ThreadingViewPost\\ThreadingViewPost\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_5d1a8adba12c38cc5e1787a187a1ee0beb609aa9\\classes.dex
